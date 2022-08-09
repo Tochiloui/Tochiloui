@@ -13,6 +13,8 @@ I'm a Product Designer, Software Engineer, UX Researcher and Content Creator, cu
 - 💼 Job interests: Product Designer, Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫  You can check out my [portfolio here](https://tochilouis.notion.site/Hey-I-m-Tochi-1579842e099248ababf0cad3964e3a38) or contact me via [email](mailto:joelpraiz @gmail.com)
 
+[portfolio here](https://tochilouis.notion.site/Hey-I-m-Tochi-1579842e099248ababf0cad3964e3a38)
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
