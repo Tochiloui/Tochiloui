@@ -11,7 +11,7 @@ I'm a Product Designer, Software Engineer, UX Researcher and Content Creator, cu
 - 🌱 I’m currently learning JavaScript, Reactjs, and Psychology in UX.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Product Designer, Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [portfolio here](https://altschoolafrica.com/schools/engineering) Class of 2022.
 
 
 
