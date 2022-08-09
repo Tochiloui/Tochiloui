@@ -13,7 +13,7 @@ I'm a Product Designer, Software Engineer, UX Researcher and Content Creator, cu
 - 💼 Job interests: Product Designer, Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫  You can check out my [portfolio here](https://tochilouis.notion.site/Hey-I-m-Tochi-1579842e099248ababf0cad3964e3a38) or contact me via [email](mailto:joelpraiz @gmail.com)
 
-[portfolio here](https://tochilouis.notion.site/Hey-I-m-Tochi-1579842e099248ababf0cad3964e3a38)
+[email](mailto:joelpraiz @gmail.com)
 
 ---
 
